@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LivingEpistle7
-- 👀 I’m interested in renewable energy 
+- 👋 Hi, I’m Inutu Katoti
+- 👀 I’m interested in renewable energy and the global transition
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various coding projects
 - 📫 How to reach me inutukatoti@gmail.com
